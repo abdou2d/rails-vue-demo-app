@@ -6,9 +6,9 @@ git_source(:github) do |repo_name|
 end
 
 gem 'rails', '~> 5.2.0'
-gem 'pg'
 gem 'bootsnap'
 gem 'puma', '~> 3.7'
+gem 'pg'
 gem 'sass-rails', '~> 5.0'
 gem 'uglifier', '>= 1.3.0'
 gem 'webpacker'
